@@ -1,9 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=120&section=header&text=Adrian+Guya&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=fff" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:C895F0,50:9D4EDD,100:7D3EBD&height=120&section=header&text=Adrian+Guya&fontSize=50&fontAlignY=40&animation=twinkling&fontColor=fff" alt="Header" />
 </div>
 
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=700&lines=Mastering+the+Six+Paths+of+Software+Engineering" />
 </div>
 
@@ -12,7 +11,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
   <img width="8" />
-  <a href="https://freelancerprofilenuxt.mesh.prod.platform.usw2.upwork/freelancers/~01f8fc437b88c2ba06?mp_source=share" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01f8fc437b88c2ba06?mp_source=share" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Upwork&logo=upwork&label=&color=6FDA44&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="upwork logo"  />
   </a>
   <img width="8" />
@@ -175,11 +174,10 @@
 ---
 
 <div align="center">
-  
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=This+World+Shall+Know+Pain...;+Through+Pain%2C+We+Achieve+Peace+👁️" />
-  
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=80&section=footer&text=The+Six+Paths+Await...&fontSize=32&fontAlignY=30&animation=twinkling&fontColor=fff" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:C895F0,50:9D4EDD,100:7D3EBD&height=80&section=footer&text=The+Six+Paths+Await...&fontSize=32&fontAlignY=30&animation=twinkling&fontColor=fff" alt="Footer" />
 </div>
+
