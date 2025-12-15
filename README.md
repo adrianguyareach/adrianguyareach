@@ -1,137 +1,154 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+World+Shall+Know+Pain...;+I'm+Adrian+Guy+Areach;+Principal+Software+Engineer+👁️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=This+World+Shall+Know+Pain...;+I'm+Adrian+Guya;+Senior+Software+Engineer+👁️" />
 </div>
 
-###
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=100&section=header&text=The+Six+Paths+of+Software&fontSize=42&fontAlignY=30&animation=twinkling&fontColor=fff" alt="Header" />
-</div>
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=adrianguyareach.adrianguyareach&left_color=purple&right_color=red&left_text=Visitors"  />
 </div>
 
----
+
+## 📊 GitHub Stats
 
 <div align="center">
   
-  ### 👁️ **"Pain is the only truth. This world shall know pain."**
-  
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Mastering+the+Six+Paths+of+Software+Engineering;+One+Path+at+a+Time" />
-  
-</div>
-
----
-
-## 👁️ About the Rinnegan Wielder
-
-<div align="center">
-  
-  I am **Nagato**, a **Principal Software Engineer** who wields the power of the **Six Paths of Pain**. Through the Rinnegan, I control six specialized paths, each representing a different aspect of software engineering mastery. Together, they form an unstoppable force in the world of technology.
-  
-  **The Six Paths:**
+  <img src="https://github-readme-stats.vercel.app/api?username=adrianguyareach&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianguyareach&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=false&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD" height="180" alt="languages graph"  />
   
 </div>
 
 <div align="center">
   
-  | 👁️ **Deva Path** | ⚙️ **Asura Path** | 🧠 **Human Path** | 🐉 **Animal Path** | 🛡️ **Preta Path** | ⚕️ **Naraka Path** |
-  |:---:|:---:|:---:|:---:|:---:|:---:|
-  | Architecture & Design | Automation & CI/CD | AI/ML Intelligence | Cloud Infrastructure | Security & Monitoring | Healing & Recovery |
-  | Shinra Tensei (Scalability) | Mechanical Precision | Mind Reading (Data) | Summoning (Deploy) | Chakra Absorption | System Restoration |
+  <img src="https://github-profile-trophy.vercel.app/?username=adrianguyareach&theme=radical&no-frame=false&no-bg=false&margin-w=4" height="150" alt="trophy" />
   
 </div>
-
----
-
-## 👁️ The Six Paths of Technology
-
-<div align="center">
-
-| Path | Techniques & Tools |
-|:--------:|:------------:|
-| **👁️ Deva Path (Tendō)**<br/>*Architecture & Gravity Control* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python" /> Python <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django" /> Django <img src="https://img.shields.io/badge/FastAPI-005571?logo=fastapi&logoColor=white" height="30" alt="fastapi" /> FastAPI <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs" /> Node.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs" /> NestJS <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go" /> Go (Gin) |
-| **⚙️ Asura Path (Shura)**<br/>*Automation & Mechanical Precision* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" /> Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" /> Kubernetes <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform" /> Terraform <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" height="40" alt="ansible" /> Ansible <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white" height="30" alt="github actions" /> GitHub Actions |
-| **🧠 Human Path (Ningendō)**<br/>*Frontend & User Experience* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react" /> React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs" /> Next.js <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript" /> TypeScript <img src="https://img.shields.io/badge/Redux-593D88?logo=redux&logoColor=white" height="30" alt="redux" /> Redux <img src="https://img.shields.io/badge/Zustand-000000?logo=react&logoColor=white" height="30" alt="zustand" /> Zustand |
-| **🐉 Animal Path (Chikushōdō)**<br/>*Cloud Infrastructure & Summoning* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="gcp" /> GCP <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker" /> Docker <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes" /> Kubernetes |
-| **🛡️ Preta Path (Gakidō)**<br/>*Monitoring & Observability* | <img src="https://img.shields.io/badge/Prometheus-E6522C?logo=prometheus&logoColor=white" height="30" alt="prometheus" /> Prometheus <img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" height="30" alt="grafana" /> Grafana <img src="https://img.shields.io/badge/Loki-2C2C2C?logo=loki&logoColor=white" height="30" alt="loki" /> Loki <img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white" height="30" alt="k6" /> k6 |
-| **⚕️ Naraka Path (Jigokudō)**<br/>*Databases & Data Management* | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql" /> PostgreSQL <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="mssql" /> MSSQL <img src="https://img.shields.io/badge/Supabase-3ECF8E?logo=supabase&logoColor=white" height="30" alt="supabase" /> Supabase |
-| **🤖 Sage of Six Paths**<br/>*AI/ML & Advanced Techniques* | <img src="https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white" height="30" alt="langchain" /> LangChain <img src="https://img.shields.io/badge/vLLM-FF6B6B?logo=python&logoColor=white" height="30" alt="vllm" /> vLLM <img src="https://img.shields.io/badge/Google_ADK-4285F4?logo=google&logoColor=white" height="30" alt="google adk" /> Google ADK |
-
-</div>
-
----
-
-## 👁️ Mastered Techniques
-
-<div align="left">
-  
-  - **👁️ Deva Path - Shinra Tensei (Architecture)**: Designing and implementing scalable microservices architectures with focus on reliability and performance - *Repelling all obstacles with gravitational force!*
-  - **👁️ Deva Path - Banshō Ten'in (RESTful APIs)**: Building robust, well-documented REST APIs that serve millions of requests - *Pulling everything together with perfect control!*
-  - **⚙️ Asura Path - Mechanical Precision (Cloud Infrastructure)**: GCP expertise with Infrastructure as Code (Terraform, Ansible) for automated deployments - *Mechanical perfection in every deployment!*
-  - **⚙️ Asura Path - Multi-Weapon System (Containerization)**: Expert-level Docker and Kubernetes orchestration for containerized applications - *Multiple tools working in perfect harmony!*
-  - **⚙️ Asura Path - Automated Systems (CI/CD)**: Automated pipelines with GitHub Actions ensuring seamless deployments - *Self-operating mechanical perfection!*
-  - **📈 Performance Engineering**: Load testing and optimization with k6 for high-traffic applications - *Unmatched speed and precision!*
-  - **🛡️ Preta Path - Chakra Absorption (Observability)**: Full-stack monitoring solutions with Prometheus, Grafana, and Loki - *Absorbing all system insights!*
-  - **🤖 Sage of Six Paths - AI/ML Techniques**: Advanced implementations with LangChain, vLLM, and Google ADK - *The ultimate power of the Sage!*
-  - **👥 Leadership & Teamwork**: Agile delivery, cross-functional collaboration, and technical mentorship - *Uniting all paths toward a common goal!*
-  
-</div>
-
----
-
-## 📊 Rinnegan Activity
 
 <div align="center">
   
-  ### 👁️ **Witness the power of the Rinnegan through my contributions!**
+  <img src="https://streak-stats.demolab.com?user=adrianguyareach&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD" height="220" alt="streak graph"  />
+  
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👁️ Deva Path - Backend
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+</div>
+
+### 🧠 Human Path - Frontend
+<div align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=react&logoColor=white" />
+</div>
+
+### ⚙️ Asura Path - DevOps
+<div align="center">
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible-000000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+</div>
+
+### 🛡️ Preta Path - Monitoring
+<div align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/Loki-2C2C2C?style=for-the-badge&logo=loki&logoColor=white" />
+  <img src="https://img.shields.io/badge/k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white" />
+</div>
+
+### ⚕️ Naraka Path - Databases
+<div align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+</div>
+
+### 🤖 Sage of Six Paths - AI/ML
+<div align="center">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/vLLM-FF6B6B?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_ADK-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+</div>
+
+---
+
+## 🎯 Core Skills
+
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/System%20Architecture-Expert-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-Master-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20APIs-Expert-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Infrastructure-Expert-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CI%2FCD-Expert-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Performance%20Engineering-Expert-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Observability-Expert-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%2FML-Advanced-9D4EDD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-Mentor-9D4EDD?style=for-the-badge" />
+  
+</div>
+
+---
+
+## 📊 Contribution Activity
+
+<div align="center">
   
   <img src="https://raw.githubusercontent.com/adrianguyareach/adrianguyareach/output/snake.svg" alt="Snake animation" />
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianguyareach&theme=redical&hide_border=false&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD" height="300" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianguyareach&theme=redical&hide_border=false&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD&radius=8" height="300" alt="activity graph" />
   
 </div>
 
 ---
 
-## 💡 The Six Paths Philosophy
+## 💡 What I Deliver
 
 <div align="center">
   
   <table>
     <tr>
       <td align="center">
-        <h3>👁️ Shinra Tensei - Scalability</h3>
-        <p>Architect systems that grow with your business</p>
-        <p><em>Repelling all limitations with gravitational force!</em></p>
+        <img src="https://img.shields.io/badge/🚀-Scalability-9D4EDD?style=for-the-badge" />
+        <p><strong>Scalable Systems</strong></p>
       </td>
       <td align="center">
-        <h3>🛡️ Chakra Absorption - Reliability</h3>
-        <p>Build robust solutions with comprehensive monitoring</p>
-        <p><em>Absorbing all threats before they manifest!</em></p>
+        <img src="https://img.shields.io/badge/🔒-Reliability-9D4EDD?style=for-the-badge" />
+        <p><strong>Robust Solutions</strong></p>
       </td>
       <td align="center">
-        <h3>⚡ Asura's Speed - Performance</h3>
-        <p>Optimize for speed and efficiency at scale</p>
-        <p><em>Mechanical precision at lightning speed!</em></p>
+        <img src="https://img.shields.io/badge/⚡-Performance-9D4EDD?style=for-the-badge" />
+        <p><strong>High Performance</strong></p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <h3>🤖 Sage Mode - Innovation</h3>
-        <p>Leverage AI/ML to solve complex problems</p>
-        <p><em>The ultimate power of the Sage of Six Paths!</em></p>
+        <img src="https://img.shields.io/badge/🤖-Innovation-9D4EDD?style=for-the-badge" />
+        <p><strong>AI/ML Integration</strong></p>
       </td>
       <td align="center">
-        <h3>👥 Shared Vision - Leadership</h3>
-        <p>Guide teams to deliver exceptional results</p>
-        <p><em>All paths working toward one vision!</em></p>
+        <img src="https://img.shields.io/badge/👥-Leadership-9D4EDD?style=for-the-badge" />
+        <p><strong>Team Mentorship</strong></p>
       </td>
       <td align="center">
-        <h3>⚙️ Automated Systems - Automation</h3>
-        <p>Streamline workflows with CI/CD pipelines</p>
-        <p><em>Self-operating mechanical perfection!</em></p>
+        <img src="https://img.shields.io/badge/🔄-Automation-9D4EDD?style=for-the-badge" />
+        <p><strong>CI/CD Pipelines</strong></p>
       </td>
     </tr>
   </table>
@@ -140,20 +157,16 @@
 
 ---
 
-## 🌟 Join the Akatsuki
+## 🌟 Connect
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=This+World+Shall+Know+Pain...;+But+Through+Pain%2C+We+Find+Peace+and+Understanding" />
-  
-  <br/>
-  
   <a href="https://linkedin.com/in/adrianguyareach" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
   <img width="12" />
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="gmail logo"  />
   </a>
   
 </div>
@@ -162,16 +175,10 @@
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Pain+is+the+Only+Truth;+Through+Understanding+Pain%2C+We+Achieve+Peace+👁️" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=This+World+Shall+Know+Pain...;+Through+Pain%2C+We+Achieve+Peace+👁️" />
   
 </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,15&height=80&section=footer&text=The+Six+Paths+Await...&fontSize=32&fontAlignY=30&animation=twinkling&fontColor=fff" alt="Footer" />
-</div>
-
-<div align="center">
-  
-  ### 👁️ **"Those who do not understand true pain can never understand true peace."** 👁️
-  
 </div>
