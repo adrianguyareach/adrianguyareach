@@ -44,20 +44,28 @@
 
 <div align="center">
   
-  <img src="https://github-readme-stats-three-pearl-88.vercel.app/api?username=adrianguyareach&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD" height="200" alt="stats graph"  />
-  <img width="20" />
-  <img src="https://github-readme-stats-three-pearl-88.vercel.app/api/top-langs?username=adrianguyareach&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=radical&hide_border=false&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD" height="200" alt="languages graph"  />
+  <table>
+    <tr>
+      <td align="center" width="40%" style="height: 200px; padding: 0;">
+        <a href="https://imgflip.com/i/6uc74c" style="display: block; height: 100%;">
+          <img src="https://i.imgflip.com/6uc74c.jpg" title="made at imgflip.com" style="width: 100%; height: 100%; object-fit: cover; display: block;">
+        </a>
+      </td>
+      <td align="center" width="60%" style="vertical-align: middle;">
+        <img src="https://github-readme-stats-three-pearl-88.vercel.app/api?username=adrianguyareach&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&bg_color=0D1117&title_color=9D4EDD&icon_color=9D4EDD&text_color=FFFFFF&border_color=9D4EDD" height="200" style="width: 100%; max-width: 500px;" alt="stats graph"  />
+        <!-- <br/><br/> -->
+        <img src="https://github-readme-stats-three-pearl-88.vercel.app/api/top-langs?username=adrianguyareach&locale=en&hide_title=false&layout=compact&card_width=500&langs_count=8&theme=radical&hide_border=false&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD&border_color=9D4EDD" height="200" style="width: 100%; max-width: 500px;" alt="languages graph"  />
+      </td>
+    </tr>
+  </table>
+  
+</div>
   <!-- <img width="20" />
   <img src="https://streak-stats.demolab.com?user=adrianguyareach&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&ring=9D4EDD&fire=9D4EDD&currStreakLabel=9D4EDD&bg_color=0D1117&border_color=9D4EDD" height="200" alt="streak graph"  /> -->
-</div>
 
 ###
 
-<div align="center">
-  
-  <a href="https://imgflip.com/i/6uc74c"><img src="https://i.imgflip.com/6uc74c.jpg" title="made at imgflip.com"/></a>
-  
-</div>
+
 
 ---
 
