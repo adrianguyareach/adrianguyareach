@@ -39,9 +39,10 @@
 
   <img src="https://github-readme-stats-three-pearl-88.vercel.app/api/top-langs?username=adrianguyareach&locale=en&hide_title=false&layout=compact&card_width=400&langs_count=8&theme=radical&hide_border=false&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF&icon_color=9D4EDD" height="180" alt="languages graph"  />
 <img src="https://github-readme-stats-three-pearl-88.vercel.app/api?username=adrianguyareach&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="180" alt="stats graph"  />
-  ###
   
 </div>
+
+###
 
 <div align="center">
   
