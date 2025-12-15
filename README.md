@@ -24,21 +24,18 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
 </div>
-
 ---
 
 ## 📊 Contribution Activity
 
 <div align="center">
-  
+  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adrianguyareach/adrianguyareach/output/pacman-contribution-graph-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adrianguyareach/adrianguyareach/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/adrianguyareach/adrianguyareach/output/pacman-contribution-graph.svg">
   </picture>
-  
   <br/><br/>
-  
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=adrianguyareach&theme=redical&hide_border=false&bg_color=0D1117&color=9D4EDD&line=9D4EDD&point=FFFFFF&area=true&area_color=9D4EDD&radius=8" height="300" alt="activity graph" />
   
 </div>
