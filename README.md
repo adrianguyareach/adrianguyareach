@@ -22,6 +22,10 @@
   <a href="https://www.instagram.com/adrianguya/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
   </a>
+  <img width="8" />
+  <a href="https://adrianguya.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=9D4EDD&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="portfolio logo"  />
+  </a>
 </div>
 
 ## 📊 Contribution Activity
